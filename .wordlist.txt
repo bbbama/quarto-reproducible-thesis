@@ -347,3 +347,14 @@ autopct
 startangle
 axhline
 axvline
+1f
+barh
+dur
+fontweight
+textcoords
+txt
+xlabel
+xlim
+xytext
+ylabel
+ylim
