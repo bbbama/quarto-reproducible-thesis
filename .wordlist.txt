@@ -338,3 +338,12 @@ wb
 Cfaerber
 Yug
 Inkscape
+Gantt
+Eisenhower
+prioritisation
+visualising
+roadmap
+autopct
+startangle
+axhline
+axvline
