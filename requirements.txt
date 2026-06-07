@@ -1,1 +1,7 @@
 jupyter
+matplotlib
+numpy
+requests
+nbformat
+nbclient
+pyyaml
