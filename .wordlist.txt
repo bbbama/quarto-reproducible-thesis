@@ -357,4 +357,5 @@ xlabel
 xlim
 xytext
 ylabel
-ylim
+ylimgantt
+gantt
