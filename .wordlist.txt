@@ -423,3 +423,6 @@ tempfile
 textrightarrow
 tmp
 tmpdir
+schemdraw
+Schemdraw
+Szeptuch
